@@ -1,0 +1,6 @@
+/tmp/
+*.db
+*.sqlite
+*.log
+.DS_Store
+.env
